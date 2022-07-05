@@ -2,3 +2,9 @@ p{
     color: coral;
     background-color: cornflowerblue;
 }
+img{
+    width: 80%;
+    height: 100vh;
+    padding-left: 50px;
+    margin: 0 auto;
+}
